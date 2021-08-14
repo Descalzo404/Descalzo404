@@ -12,7 +12,8 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  ![Snake animation](https://github.com/descalzo404/descalzo404/blob/output/github-contribution-grid-snake.svg)
 </div>
-![Snake animation](https://github.com/descalzo404/descalzo404/blob/output/github-contribution-grid-snake.svg)
+
 
 
