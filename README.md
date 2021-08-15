@@ -1,6 +1,11 @@
-## Eae galera, como vocês estão? Sou o Pedro e bem vindos ao meu perfil!!! 👋
-- 🌱 Estou aprendendo atualmente sobre AI e ML. Mas gosto também de estudar física e línguas.
-<img align="right">
+<div>
+  <h2>Eae galera. Sou o Pedro e bem vindos ao meu perfil!!!</h2>
+
+  <img align="center"  src="src/stitch.gif">
+</div>
+
+## 
+
 <div>
   <a href="https://github.com/descalzo404">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=descalzo404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
